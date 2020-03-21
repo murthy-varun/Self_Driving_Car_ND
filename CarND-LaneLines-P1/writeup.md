@@ -48,9 +48,9 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 
 Output videos for the 3 test videos are available at:
-* [!Test video 1 - Solid White Right](https://github.com/murthy-varun/Self_Driving_Car_ND/blob/master/CarND-LaneLines-P1/test_videos_output/solidWhiteRight.mp4)
-* [!Test video 2 - Solid Yellow Left](https://github.com/murthy-varun/Self_Driving_Car_ND/blob/master/CarND-LaneLines-P1/test_videos_output/solidYellowLeft.mp4)
-* [!Test video 3 - Challenge](https://github.com/murthy-varun/Self_Driving_Car_ND/blob/master/CarND-LaneLines-P1/test_videos_output/challenge.mp4)
+* [Test video 1 - Solid White Right](https://github.com/murthy-varun/Self_Driving_Car_ND/blob/master/CarND-LaneLines-P1/test_videos_output/solidWhiteRight.mp4)
+* [Test video 2 - Solid Yellow Left](https://github.com/murthy-varun/Self_Driving_Car_ND/blob/master/CarND-LaneLines-P1/test_videos_output/solidYellowLeft.mp4)
+* [Test video 3 - Challenge](https://github.com/murthy-varun/Self_Driving_Car_ND/blob/master/CarND-LaneLines-P1/test_videos_output/challenge.mp4)
 
 ### 2. Identify potential shortcomings with your current pipeline
 This pipeline currently uses hard-coded parameters which may not work in different different conditions for example day vs evening vs night, sunny vs rainy vs snowy conditions etc.
